@@ -7,10 +7,10 @@ Our technical test consists of a short coding challenge, followed by some additi
 We have provided a C# [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/) based Web.Api 2 project as a starter - please feel free to roll your own project from scratch if you want.
 
 ## Coding challenge
-The subject of the coding challenge is an incomplete Web.API 2 project, providing access to Car Telemetry data. 
+The subject of the coding challenge is an incomplete Web.Api 2 project, providing access to Car Telemetry data. 
 We have provided sample data (telemetry.json) for you to use as a base.
 
-As a minimum, we are looking for you to implement the following user stories:
+As a minimum, you should implement the following user stories:
 
 ### Story MR-001
 _As a **Vehicle Science Engineer**_ 
