@@ -4,7 +4,7 @@ Thanks for your interest in Manor Racing!
 
 Our technical test consists of a short coding challenge, followed by some additional excercises.
 
-We have provided a C# ASP.Net Core based Web.Api 2 project as a starter - please feel free to roll your own project from scratch if you want.
+We have provided a C# [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/) based Web.Api 2 project as a starter - please feel free to roll your own project from scratch if you want.
 
 ## Coding challenge
 The subject of the coding challenge is an incomplete Web.API 2 project, providing access to Car Telemetry data. 
