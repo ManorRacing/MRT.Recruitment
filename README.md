@@ -13,8 +13,10 @@ We have provided sample data (telemetry.json) for you to use as a base.
 As a minimum, we are looking for you to implement the following user stories:
 
 ### Story MR-001
-_As a **Vehicle Science Engineer**_
-_I want to **view recorded telemetry data by {car}**_
+_As a **Vehicle Science Engineer**_ 
+
+_I want to **view recorded telemetry data by {car}**_ 
+
 _So that I can **analyse {car} performance**_
 
 #### Tasks
@@ -31,12 +33,15 @@ _So that I can **analyse {car} performance**_
  - the API has a method to obtain the fastest lap.
  - solution is covered by unit tests.
 
-----------
+---
 
 ### Story MR-002
 _As a **Race Engineer**_
+
 _When a **{car} crosses the start/finish line**_
+
 _I want to **record telemetry data**_
+
 _So that I can **react to changing conditions during the race**_
 
 #### Assumptions
@@ -58,29 +63,36 @@ These stories are open and optional, but we recommend that you **pick at least o
 
 ### Story MR-003
 _As a **Race Engineer**_
+
 _When **our telemetry repository is offline**_
+
 _I want to **ensure new telemetry data is queued**_
+
 _So that **we can record the data when connection is restored**_
 
 #### Tasks
 - Add end-to-end asynchronous capabilities to your solution.
 - Add a queue to spool telemetry data writes in the event the repository is offline.
 
-----------
+---
 
 ### Story MR-004
 _As a **Vehicle Science Engineer**_
+
 _I want **to view documentation for the Telemetry API**_
+
 _So that I can **implement it in my own solutions**_
 
 #### Tasks
 - Add some form of live API documentation (e.g. Swagger).
 
-----------
+---
 
 ### Story MR-005
 _As a **Vehicle Science Engineer**_
+
 _I want to **identify slow pit lane in-laps and out-laps**_
+
 _So that **average calculations for normal laps aren't skewed**_
 
 #### Assumptions
@@ -89,11 +101,13 @@ _So that **average calculations for normal laps aren't skewed**_
 #### Tasks
 - Create a filter for identifying slow laps where the car was entering/exiting the pit lane.
 
-----------
+---
 
 ### Story MR-006
 _As a **Race Engineer**_
+
 _I want to **predict the performance of the car**_
+
 _So that **I can make tactical decisions during the race**_
 
 #### Assumptions
@@ -105,7 +119,7 @@ _So that **I can make tactical decisions during the race**_
 - Create a method for calculating average tyreDeg/lap tyre degradation for **both** tyre compounds.
 - Create a method for calculating average tyreTemp/lap tyre temperature increase for **both** tyre compounds.
 
-----------
+---
 
 ### Story MR-007
 - Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
@@ -124,4 +138,5 @@ Due to email attachment size limits, we have set up some shared storage for taki
 - Make it work, Make it right, Make it fast :)
 
 Good luck - we are looking forward to reviewing your work!
+
 **Software Engineers of Manor Racing**
