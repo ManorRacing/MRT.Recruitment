@@ -25,9 +25,16 @@ namespace Manor.DreamTeam.Recruitment.Controllers
             throw new NotImplementedException();
         }
 
-        // GET api/telemetry/5
-        [HttpGet("{id}")]
-        public Telemetry Get(Guid id)
+        // GET api/telemetry/chassis/CH1
+        [HttpGet("chassis/{chassis}")]
+        public Telemetry Get(string chassis)
+        {
+            throw new NotImplementedException();
+        }
+
+        // GET api/telemetry/lap/23
+        [HttpGet("lap/{lap}")]
+        public Telemetry Get(int lap)
         {
             throw new NotImplementedException();
         }
