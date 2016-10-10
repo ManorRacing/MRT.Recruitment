@@ -20,7 +20,7 @@ As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#sto
 ### How long does it take?
 You should aim to spend approximately 90 minutes on this excercise.
 
-
+---
 
 ###Story MR-001
 
@@ -68,8 +68,6 @@ You should aim to spend approximately 90 minutes on this excercise.
 
 ## Additional stories
 These stories are open and optional, but we recommend that you **pick at least one** to make your application competitive:
-
----
 
 ### Story MR-003 (optional)
 
