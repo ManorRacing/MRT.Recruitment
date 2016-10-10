@@ -6,13 +6,21 @@ Our technical test consists of a short coding challenge, followed by some additi
 
 We have provided a C# [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/) based Web.Api 2 project as a starter - please feel free to roll your own project from scratch if you want.
 
+
+
 ## Coding challenge
+
+### What is it?
 The subject of the coding challenge is an incomplete Web.Api 2 project, providing access to Car Telemetry data. 
 We have provided sample data (telemetry.json) for you to use as a base.
 
-As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#story-mr-002):
+### What do I need to do?
+As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#story-mr-002). If you have extra time, please implement one (or more) of the additional stories.
 
----
+### How long does it take?
+You should aim to spend approximately 90 minutes on this excercise.
+
+
 
 ###Story MR-001
 
@@ -56,7 +64,7 @@ As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#sto
 
 **Please Note: We are not expecting you to persist your changes to a database. An in-memory stub will do!**
 
----
+
 
 ## Additional stories
 These stories are open and optional, but we recommend that you **pick at least one** to make your application competitive:
@@ -67,8 +75,8 @@ These stories are open and optional, but we recommend that you **pick at least o
 
 > _As a **Race Engineer**_
 > _When **our telemetry repository is offline**_
-> _I want to **ensure new telemetry data is queued**_
-> _So that **we can record the data when connection is restored**_
+> _I want to **ensure new telemetry data is added to a queue**_
+> _So that **we can record the data when connectivity is restored**_
 
 #### Tasks
 - Add end-to-end asynchronous capabilities to your solution.
@@ -121,13 +129,15 @@ These stories are open and optional, but we recommend that you **pick at least o
 ### Story MR-007 (optional)
 - Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
 
----
+
 
 ## Submission details
 Due to email attachment size limits, we have set up some shared storage for taking submissions.
 
 - Once you have completed the test, please email your agent or Manor Racing contact and you will be provided with an invite for access to the OneDrive shared storage. 
 - Upload your solution and it will be reviewed by a member of our team.
+
+
 
 ## Top Tips
 - We are looking for clean, reabable code that is easy to understand without comments.
