@@ -1,14 +1,10 @@
-﻿# MANOR RACING - Software Engineering Tech Test
-=======================================================
+# MANOR RACING - Software Engineering Tech Test
 
 Thanks for your interest in Manor Racing! 
 
 Our technical test consists of a short coding challenge, followed by some additional excercises.
 
 We have provided a C# ASP.Net Core based Web.Api 2 project as a starter - please feel free to roll your own project from scratch if you want.
-
-
-----------
 
 ## Coding challenge
 The subject of the coding challenge is an incomplete Web.API 2 project, providing access to Car Telemetry data. 
@@ -35,7 +31,7 @@ _So that I can **analyse {car} performance**_
  - the API has a method to obtain the fastest lap.
  - solution is covered by unit tests.
 
- ----------
+----------
 
 ### Story MR-002
 _As a **Race Engineer**_
@@ -56,8 +52,6 @@ _So that I can **react to changing conditions during the race**_
  - _**/api/telemetry/lap/{lap}**_ returns all telemetry for your newly added lap.
 
 **Please Note: We are not expecting you to persist your changes to a database. An in-memory stub will do!**
-
-----------
 
 ## Additional stories
 These stories are open and optional, but we recommend that you **pick at least one** to make your application competitive:
@@ -116,15 +110,11 @@ _So that **I can make tactical decisions during the race**_
 ### Story MR-007
 - Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
 
-----------
-
 ## Submission details
 Due to email attachment size limits, we have set up some shared storage for taking submissions.
 
 - Once you have completed the test, please email your agent or Manor Racing contact and you will be provided with an invite for access to the OneDrive shared storage. 
 - Upload your solution and it will be reviewed by a member of our team.
-
-----------
 
 ## Top Tips
 - We are looking for clean, reabable code that is easy to understand without comments.
