@@ -10,7 +10,7 @@ We have provided a C# [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev
 The subject of the coding challenge is an incomplete Web.Api 2 project, providing access to Car Telemetry data. 
 We have provided sample data (telemetry.json) for you to use as a base.
 
-As a minimum, please implement stories [MR-001](Story-#MR-001-(mandatory)) and [MR-002](Story-#MR-002-(mandatory)):
+As a minimum, please implement stories [MR-001](Story-MR-001-(mandatory)) and [MR-002](Story-MR-002-(mandatory)):
 
 ---
 
