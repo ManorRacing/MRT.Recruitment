@@ -19,21 +19,20 @@ As a minimum, we are looking for you to implement the following user story:
 _"As a Vehicle Science Engineer, I want to view recorded telemetry data so that I can check the health of the car every lap"_
 
 **Tasks:**
-1. Implement IRepository<Telemetry> in a TDD fashion.
-2. Complete the Get() and Get(id) methods in TelemetryController.cs.
-3. Add a method to TelemetryController.cs for adding more Telemetry data to the collection.
-4. Add a method for obtaining details of the fastest lap recorded.
+* Implement IRepository<Telemetry> in a TDD fashion.
+* Complete the Get() and Get(id) methods in TelemetryController.cs.
+* Add a method to TelemetryController.cs for adding more Telemetry data to the collection.
+* Add a method for obtaining details of the fastest lap recorded.
 
 **Please Note: We are not expecting you to persist data changes to the telemetry.json source data. An in-memory collection will do!**
 
 # Additional tasks
 These tasks are optional, but we recommend that you pick at least one to make your application competitive.
-5. Add end-to-end asynchronous capabilities to your solution.
-6. Add some form of API documentation (e.g. Swagger)
-7. Create a method for identifying slow laps where the car was entering/exiting the pit lane.
-8. Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn.
-9. Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
-
+* Add end-to-end asynchronous capabilities to your solution.
+* Add some form of API documentation (e.g. Swagger)
+* Create a method for identifying slow laps where the car was entering/exiting the pit lane.
+* Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn.
+* Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
 
 # Submission details
 Due to email attachment size limits, we have set up some shared storage for taking submissions.
