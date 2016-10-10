@@ -21,7 +21,7 @@ As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#sto
 > _So that I can **analyse {car} performance**_
 
 #### Tasks
-- Implement IRepository<Telemetry> in a TDD fashion.
+- Implement ``IRepository<Telemetry>`` in a TDD fashion.
 - Complete the the Get methods in TelemetryController.cs.
 - Add a method for obtaining details of the fastest lap recorded.
 - **[Optional]** Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn. **Don't spend any time on styling - it just has to be functional!**
