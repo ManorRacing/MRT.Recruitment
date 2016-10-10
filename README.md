@@ -12,9 +12,13 @@ We have provided a C# [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev
 
 ### What is it?
 The subject of the coding challenge is an incomplete Web.Api 2 project, providing access to Car Telemetry data. 
-We have provided sample data (telemetry.json) for you to use as a base.
+We have provided sample data ``telemetry.json`` for you to use as a base.
 
 ### What do I need to do?
+1. Ensure that you have [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/) installed.
+2. Clone or fork this repository. 
+3. Code!
+
 As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#story-mr-002). If you have extra time, please implement one (or more) of the additional stories.
 
 ### How long does it take?
@@ -29,10 +33,10 @@ You should aim to spend approximately 90 minutes on this excercise.
 > _So that I can **analyse {car} performance**_
 
 #### Tasks
-- Implement ``IRepository<Telemetry>`` in a TDD fashion.
-- Complete the the Get methods in TelemetryController.cs.
-- Add a method for obtaining details of the fastest lap recorded.
-- **[Optional]** Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn. **Don't spend any time on styling - it just has to be functional!**
+1. Implement ``IRepository<Telemetry>`` in a TDD fashion, using ``telemetry.json`` as test data.
+2. Complete ``Get()``, ``GetByChassis(string chassis)`` and ``GetByLap(int lap)`` methods in ``TelemetryController.cs``.
+3. Add a method for obtaining details of the fastest lap recorded.
+4. **[Optional]** Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn. **Don't spend any time on styling - it just has to be functional!**
 
 #### Acceptance Criteria
  - _**/api/telemetry/get**_ returns all telemetry.
@@ -55,8 +59,8 @@ You should aim to spend approximately 90 minutes on this excercise.
 - The same car can not be tracked more than once per lap.
 
 #### Tasks
-- Add a method to TelemetryController.cs for accepting new lap to the collection.
-- Ensure that any duplicated telemetry is handled appropriately.
+1. Add a method to ``TelemetryController.cs`` for accepting new lap to the collection.
+2. Ensure that any duplicated telemetry is handled appropriately.
 
 #### Acceptance Criteria
  - _**/api/telemetry/post**_ allows a new telemetry item to be added to the repository.
@@ -77,8 +81,8 @@ These stories are open and optional, but we recommend that you **pick at least o
 > _So that **we can record the data when connectivity is restored**_
 
 #### Tasks
-- Add end-to-end asynchronous capabilities to your solution.
-- Add a queue to spool telemetry data writes in the event the repository is offline.
+1. Add end-to-end asynchronous capabilities to your solution.
+2. Add a queue to spool telemetry data writes in the event the repository is offline.
 
 ---
 
@@ -89,7 +93,7 @@ These stories are open and optional, but we recommend that you **pick at least o
 > _So that I can **implement it in my own solutions**_
 
 #### Tasks
-- Add some form of live API documentation (e.g. Swagger).
+1. Add some form of live API documentation (e.g. Swagger).
 
 ---
 
@@ -103,7 +107,7 @@ These stories are open and optional, but we recommend that you **pick at least o
 - Pit laps always include a tyre change.
 
 #### Tasks
-- Create a filter for identifying slow laps where the car was entering/exiting the pit lane.
+1. Create a filter for identifying slow laps where the car was entering/exiting the pit lane.
 
 ---
 
@@ -118,9 +122,9 @@ These stories are open and optional, but we recommend that you **pick at least o
 - a hard tyre compound lasts more laps and heats up more slowly than the soft tyre compound.
 
 #### Tasks
-- Create a method for calculating average kg/lap fuel burn.
-- Create a method for calculating average tyreDeg/lap tyre degradation for **both** tyre compounds.
-- Create a method for calculating average tyreTemp/lap tyre temperature increase for **both** tyre compounds.
+1. Create a method for calculating average kg/lap fuel burn.
+2. Create a method for calculating average tyreDeg/lap tyre degradation for **both** tyre compounds.
+3. Create a method for calculating average tyreTemp/lap tyre temperature increase for **both** tyre compounds.
 
 ---
 
