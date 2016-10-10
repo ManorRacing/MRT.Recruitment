@@ -29,7 +29,6 @@ _So that I can **analyse {car} performance**_
  - _**/api/telemetry/get**_ returns all telemetry.
  - _**/api/telemetry/chassis/{chassis}**_ returns all telemetry for a single car.
  - _**/api/telemetry/lap/{lap}**_ returns all telemetry for a single lap.
- - _**/api/telemetry/post**_ allows a new telemetry item to be added to the repository.
  - the API has a method to obtain the fastest lap.
  - solution is covered by unit tests.
 
