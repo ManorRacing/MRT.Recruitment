@@ -1,0 +1,1808 @@
+[
+  {
+    "timestamp": "2016-09-17T13:02:55.696Z",
+    "lap": {
+      "number": 1,
+      "time": "01:27.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 89.22,
+      "tyreDeg": 0.084334,
+      "fuel": 98.59,
+      "weight": 842.59
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:03:01.980Z",
+    "lap": {
+      "number": 1,
+      "time": "01:34.0"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 89.22,
+      "tyreDeg": 0.03049,
+      "fuel": 98.56,
+      "weight": 842.56
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:04:22.742Z",
+    "lap": {
+      "number": 2,
+      "time": "01:27.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 127.534624,
+      "tyreDeg": 0.154903072,
+      "fuel": 97.23,
+      "weight": 841.23
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:04:28.558Z",
+    "lap": {
+      "number": 2,
+      "time": "01:26.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 128.389408,
+      "tyreDeg": 0.100589241,
+      "fuel": 97.11,
+      "weight": 841.11
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:05:48.373Z",
+    "lap": {
+      "number": 3,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 142.696243,
+      "tyreDeg": 0.217974108,
+      "fuel": 95.74,
+      "weight": 839.74
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:05:56.361Z",
+    "lap": {
+      "number": 3,
+      "time": "01:27.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 143.6388336,
+      "tyreDeg": 0.163246391,
+      "fuel": 95.74,
+      "weight": 839.74
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:07:13.417Z",
+    "lap": {
+      "number": 4,
+      "time": "01:25.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 147.6386392,
+      "tyreDeg": 0.27893376,
+      "fuel": 94.38,
+      "weight": 838.38
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:07:23.599Z",
+    "lap": {
+      "number": 4,
+      "time": "01:27.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 148.0969998,
+      "tyreDeg": 0.224017372,
+      "fuel": 94.33,
+      "weight": 838.33
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:08:39.315Z",
+    "lap": {
+      "number": 5,
+      "time": "01:25.9"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 149.8567609,
+      "tyreDeg": 0.33899111,
+      "fuel": 92.92,
+      "weight": 836.92
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:08:49.092Z",
+    "lap": {
+      "number": 5,
+      "time": "01:25.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 149.9062031,
+      "tyreDeg": 0.284054914,
+      "fuel": 92.71,
+      "weight": 836.71
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:10:04.595Z",
+    "lap": {
+      "number": 6,
+      "time": "01:25.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.5738176,
+      "tyreDeg": 0.398762458,
+      "fuel": 91.35,
+      "weight": 835.35
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:10:15.579Z",
+    "lap": {
+      "number": 6,
+      "time": "01:26.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.6580334,
+      "tyreDeg": 0.343792851,
+      "fuel": 91.11,
+      "weight": 835.11
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:11:28.732Z",
+    "lap": {
+      "number": 7,
+      "time": "01:24.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8667192,
+      "tyreDeg": 0.458417762,
+      "fuel": 89.79,
+      "weight": 833.79
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:11:41.133Z",
+    "lap": {
+      "number": 7,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.798235,
+      "tyreDeg": 0.403475247,
+      "fuel": 89.67,
+      "weight": 833.67
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:12:54.729Z",
+    "lap": {
+      "number": 8,
+      "time": "01:26.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8931369,
+      "tyreDeg": 0.518062622,
+      "fuel": 88.23,
+      "weight": 832.23
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:13:06.526Z",
+    "lap": {
+      "number": 8,
+      "time": "01:25.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9440385,
+      "tyreDeg": 0.463099993,
+      "fuel": 88.08,
+      "weight": 832.08
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:14:21.161Z",
+    "lap": {
+      "number": 9,
+      "time": "01:26.4"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8524846,
+      "tyreDeg": 0.577723555,
+      "fuel": 86.58,
+      "weight": 830.58
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:14:34.277Z",
+    "lap": {
+      "number": 9,
+      "time": "01:27.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0029468,
+      "tyreDeg": 0.522701479,
+      "fuel": 86.49,
+      "weight": 830.49
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:15:47.248Z",
+    "lap": {
+      "number": 10,
+      "time": "01:26.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9115354,
+      "tyreDeg": 0.637361143,
+      "fuel": 85.06,
+      "weight": 829.06
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:16:01.468Z",
+    "lap": {
+      "number": 10,
+      "time": "01:27.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0203551,
+      "tyreDeg": 0.582296095,
+      "fuel": 84.88,
+      "weight": 828.88
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:17:11.497Z",
+    "lap": {
+      "number": 11,
+      "time": "01:24.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8894821,
+      "tyreDeg": 0.697007448,
+      "fuel": 83.44,
+      "weight": 827.44
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:17:27.103Z",
+    "lap": {
+      "number": 11,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0128159,
+      "tyreDeg": 0.641893685,
+      "fuel": 83.43,
+      "weight": 827.43
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:18:35.324Z",
+    "lap": {
+      "number": 12,
+      "time": "01:23.8"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 151.0633551,
+      "tyreDeg": 0.7565851,
+      "fuel": 81.87,
+      "weight": 825.87
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:18:52.670Z",
+    "lap": {
+      "number": 12,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9782755,
+      "tyreDeg": 0.701504911,
+      "fuel": 82.03,
+      "weight": 826.03
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:20:01.598Z",
+    "lap": {
+      "number": 13,
+      "time": "01:26.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 151.0456571,
+      "tyreDeg": 0.816169732,
+      "fuel": 80.31,
+      "weight": 824.31
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:20:20.702Z",
+    "lap": {
+      "number": 13,
+      "time": "01:28.0"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0181963,
+      "tyreDeg": 0.761100378,
+      "fuel": 80.58,
+      "weight": 824.58
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:21:46.128Z",
+    "lap": {
+      "number": 14,
+      "time": "01:25.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0249355,
+      "tyreDeg": 0.820693186,
+      "fuel": 79.14,
+      "weight": 823.14
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:21:57.211Z",
+    "lap": {
+      "number": 14,
+      "time": "01:55.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 66.765,
+      "tyreDeg": 0,
+      "fuel": 78.94,
+      "weight": 822.94
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:23:25.859Z",
+    "lap": {
+      "number": 15,
+      "time": "01:28.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 83.836164,
+      "tyreDeg": 0.0447301,
+      "fuel": 77.59,
+      "weight": 821.59
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:24:43.816Z",
+    "lap": {
+      "number": 15,
+      "time": "02:57.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 58.54,
+      "tyreDeg": 0,
+      "fuel": 77.61,
+      "weight": 821.61
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:24:51.106Z",
+    "lap": {
+      "number": 16,
+      "time": "01:25.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 99.19884968,
+      "tyreDeg": 0.082532958,
+      "fuel": 76.21,
+      "weight": 820.21
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:26:16.387Z",
+    "lap": {
+      "number": 16,
+      "time": "01:32.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 121.200864,
+      "tyreDeg": 0.074256896,
+      "fuel": 76.09,
+      "weight": 820.09
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:26:16.666Z",
+    "lap": {
+      "number": 17,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 111.3686405,
+      "tyreDeg": 0.116204914,
+      "fuel": 74.85,
+      "weight": 818.85
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:27:40.849Z",
+    "lap": {
+      "number": 18,
+      "time": "01:24.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 119.2244497,
+      "tyreDeg": 0.147658194,
+      "fuel": 73.38,
+      "weight": 817.38
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:27:42.100Z",
+    "lap": {
+      "number": 17,
+      "time": "01:25.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 139.6809676,
+      "tyreDeg": 0.13868944,
+      "fuel": 74.59,
+      "weight": 818.59
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:29:05.660Z",
+    "lap": {
+      "number": 19,
+      "time": "01:24.8"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 126.4137894,
+      "tyreDeg": 0.177322679,
+      "fuel": 71.74,
+      "weight": 815.74
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:29:09.289Z",
+    "lap": {
+      "number": 18,
+      "time": "01:27.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 146.3499721,
+      "tyreDeg": 0.200185864,
+      "fuel": 73.03,
+      "weight": 817.03
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:30:28.919Z",
+    "lap": {
+      "number": 20,
+      "time": "01:23.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 131.8359557,
+      "tyreDeg": 0.20576712,
+      "fuel": 70.39,
+      "weight": 814.39
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:30:34.647Z",
+    "lap": {
+      "number": 19,
+      "time": "01:25.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 149.3323899,
+      "tyreDeg": 0.260454102,
+      "fuel": 71.62,
+      "weight": 815.62
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:31:54.523Z",
+    "lap": {
+      "number": 21,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 135.8790019,
+      "tyreDeg": 0.233365203,
+      "fuel": 68.74,
+      "weight": 812.74
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:32:02.124Z",
+    "lap": {
+      "number": 20,
+      "time": "01:27.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.4423512,
+      "tyreDeg": 0.320277682,
+      "fuel": 70.26,
+      "weight": 814.26
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:33:20.135Z",
+    "lap": {
+      "number": 22,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 138.9394919,
+      "tyreDeg": 0.26035537,
+      "fuel": 67.35,
+      "weight": 811.35
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:33:29.162Z",
+    "lap": {
+      "number": 21,
+      "time": "01:27.0"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.8334601,
+      "tyreDeg": 0.37994614,
+      "fuel": 68.83,
+      "weight": 812.83
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:34:45.138Z",
+    "lap": {
+      "number": 23,
+      "time": "01:25.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 141.3516725,
+      "tyreDeg": 0.286884946,
+      "fuel": 65.89,
+      "weight": 809.89
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:34:55.703Z",
+    "lap": {
+      "number": 22,
+      "time": "01:26.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9325798,
+      "tyreDeg": 0.439575413,
+      "fuel": 67.3,
+      "weight": 811.3
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:36:10.427Z",
+    "lap": {
+      "number": 24,
+      "time": "01:25.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 143.3783993,
+      "tyreDeg": 0.313039513,
+      "fuel": 64.53,
+      "weight": 808.53
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:36:21.640Z",
+    "lap": {
+      "number": 23,
+      "time": "01:25.9"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9962232,
+      "tyreDeg": 0.499179553,
+      "fuel": 65.67,
+      "weight": 809.67
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:37:34.730Z",
+    "lap": {
+      "number": 25,
+      "time": "01:24.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 144.9028762,
+      "tyreDeg": 0.338918917,
+      "fuel": 62.95,
+      "weight": 806.95
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:37:48.770Z",
+    "lap": {
+      "number": 24,
+      "time": "01:27.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0178162,
+      "tyreDeg": 0.55877517,
+      "fuel": 64.14,
+      "weight": 808.14
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:38:59.349Z",
+    "lap": {
+      "number": 26,
+      "time": "01:24.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 146.2618434,
+      "tyreDeg": 0.364557866,
+      "fuel": 61.48,
+      "weight": 805.48
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:39:14.212Z",
+    "lap": {
+      "number": 25,
+      "time": "01:25.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.109726,
+      "tyreDeg": 0.61833454,
+      "fuel": 62.59,
+      "weight": 806.59
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:40:24.296Z",
+    "lap": {
+      "number": 27,
+      "time": "01:24.9"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 147.2318463,
+      "tyreDeg": 0.390027899,
+      "fuel": 59.86,
+      "weight": 803.86
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:40:40.020Z",
+    "lap": {
+      "number": 26,
+      "time": "01:25.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.1283193,
+      "tyreDeg": 0.677886581,
+      "fuel": 61.11,
+      "weight": 805.11
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:41:48.441Z",
+    "lap": {
+      "number": 28,
+      "time": "01:24.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 148.1051596,
+      "tyreDeg": 0.415347746,
+      "fuel": 58.48,
+      "weight": 802.48
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:42:07.637Z",
+    "lap": {
+      "number": 27,
+      "time": "01:27.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0022162,
+      "tyreDeg": 0.737488356,
+      "fuel": 59.46,
+      "weight": 803.46
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:43:12.503Z",
+    "lap": {
+      "number": 29,
+      "time": "01:24.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 148.7589305,
+      "tyreDeg": 0.440556317,
+      "fuel": 57.1,
+      "weight": 801.1
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:43:35.508Z",
+    "lap": {
+      "number": 28,
+      "time": "01:27.9"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9944404,
+      "tyreDeg": 0.797093199,
+      "fuel": 57.81,
+      "weight": 801.81
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:44:35.556Z",
+    "lap": {
+      "number": 30,
+      "time": "01:23.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 149.2919389,
+      "tyreDeg": 0.465674887,
+      "fuel": 55.75,
+      "weight": 799.75
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:45:02.252Z",
+    "lap": {
+      "number": 29,
+      "time": "01:26.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9022832,
+      "tyreDeg": 0.856734444,
+      "fuel": 56.25,
+      "weight": 800.25
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:46:00.396Z",
+    "lap": {
+      "number": 31,
+      "time": "01:24.8"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 149.6818278,
+      "tyreDeg": 0.490728028,
+      "fuel": 54.12,
+      "weight": 798.12
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:46:28.378Z",
+    "lap": {
+      "number": 30,
+      "time": "01:26.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.8853743,
+      "tyreDeg": 0.916382372,
+      "fuel": 54.66,
+      "weight": 798.66
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:47:22.560Z",
+    "lap": {
+      "number": 32,
+      "time": "01:22.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 149.9816259,
+      "tyreDeg": 0.515731091,
+      "fuel": 52.74,
+      "weight": 796.74
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:47:53.967Z",
+    "lap": {
+      "number": 31,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9774036,
+      "tyreDeg": 0.975993942,
+      "fuel": 53.11,
+      "weight": 797.11
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:48:47.283Z",
+    "lap": {
+      "number": 33,
+      "time": "01:24.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.2119852,
+      "tyreDeg": 0.54069581,
+      "fuel": 51.18,
+      "weight": 795.18
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:49:21.647Z",
+    "lap": {
+      "number": 32,
+      "time": "01:27.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9911422,
+      "tyreDeg": 1.035600088,
+      "fuel": 51.61,
+      "weight": 795.61
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:50:09.999Z",
+    "lap": {
+      "number": 34,
+      "time": "01:22.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.3808166,
+      "tyreDeg": 0.565632501,
+      "fuel": 49.65,
+      "weight": 793.65
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:50:52.218Z",
+    "lap": {
+      "number": 33,
+      "time": "01:30.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0607545,
+      "tyreDeg": 1.095178765,
+      "fuel": 50.17,
+      "weight": 794.17
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:51:34.606Z",
+    "lap": {
+      "number": 35,
+      "time": "01:24.6"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.5334858,
+      "tyreDeg": 0.590543902,
+      "fuel": 48,
+      "weight": 792
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:52:24.832Z",
+    "lap": {
+      "number": 34,
+      "time": "01:32.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0391275,
+      "tyreDeg": 1.154765974,
+      "fuel": 48.76,
+      "weight": 792.76
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:52:58.604Z",
+    "lap": {
+      "number": 36,
+      "time": "01:24.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.6152926,
+      "tyreDeg": 0.615441772,
+      "fuel": 46.5,
+      "weight": 790.5
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:54:20.712Z",
+    "lap": {
+      "number": 37,
+      "time": "01:22.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.6890991,
+      "tyreDeg": 0.640327448,
+      "fuel": 44.88,
+      "weight": 788.88
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:54:21.312Z",
+    "lap": {
+      "number": 35,
+      "time": "01:56.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0529867,
+      "tyreDeg": 0,
+      "fuel": 47.31,
+      "weight": 791.31
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:55:43.678Z",
+    "lap": {
+      "number": 38,
+      "time": "01:23.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.7711414,
+      "tyreDeg": 0.665199581,
+      "fuel": 43.36,
+      "weight": 787.36
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:55:52.444Z",
+    "lap": {
+      "number": 36,
+      "time": "01:31.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.1177881,
+      "tyreDeg": 0.029778096,
+      "fuel": 45.96,
+      "weight": 789.96
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:57:05.399Z",
+    "lap": {
+      "number": 39,
+      "time": "01:21.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8296008,
+      "tyreDeg": 0.690062075,
+      "fuel": 41.97,
+      "weight": 785.97
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:57:18.106Z",
+    "lap": {
+      "number": 37,
+      "time": "01:25.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.921173,
+      "tyreDeg": 0.059594986,
+      "fuel": 44.56,
+      "weight": 788.56
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:58:29.597Z",
+    "lap": {
+      "number": 40,
+      "time": "01:24.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8638132,
+      "tyreDeg": 0.714918931,
+      "fuel": 40.59,
+      "weight": 784.59
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:58:45.288Z",
+    "lap": {
+      "number": 38,
+      "time": "01:27.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0051358,
+      "tyreDeg": 0.089395297,
+      "fuel": 43.03,
+      "weight": 787.03
+    }
+  },
+  {
+    "timestamp": "2016-09-17T13:59:51.301Z",
+    "lap": {
+      "number": 41,
+      "time": "01:21.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9120763,
+      "tyreDeg": 0.739767837,
+      "fuel": 39.16,
+      "weight": 783.16
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:00:11.390Z",
+    "lap": {
+      "number": 39,
+      "time": "01:26.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0661776,
+      "tyreDeg": 0.119183566,
+      "fuel": 41.38,
+      "weight": 785.38
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:01:12.790Z",
+    "lap": {
+      "number": 42,
+      "time": "01:21.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.930767,
+      "tyreDeg": 0.764613665,
+      "fuel": 37.71,
+      "weight": 781.71
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:01:37.356Z",
+    "lap": {
+      "number": 40,
+      "time": "01:26.0"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0383181,
+      "tyreDeg": 0.14897733,
+      "fuel": 39.91,
+      "weight": 783.91
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:02:36.508Z",
+    "lap": {
+      "number": 43,
+      "time": "01:23.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.932189,
+      "tyreDeg": 0.78945926,
+      "fuel": 36.25,
+      "weight": 780.25
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:03:02.742Z",
+    "lap": {
+      "number": 41,
+      "time": "01:25.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0246326,
+      "tyreDeg": 0.178773794,
+      "fuel": 38.47,
+      "weight": 782.47
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:03:59.716Z",
+    "lap": {
+      "number": 44,
+      "time": "01:23.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9362566,
+      "tyreDeg": 0.814304185,
+      "fuel": 34.66,
+      "weight": 778.66
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:04:28.663Z",
+    "lap": {
+      "number": 42,
+      "time": "01:25.9"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0418136,
+      "tyreDeg": 0.208566869,
+      "fuel": 36.91,
+      "weight": 780.91
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:05:21.930Z",
+    "lap": {
+      "number": 45,
+      "time": "01:22.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9447583,
+      "tyreDeg": 0.839147711,
+      "fuel": 33.27,
+      "weight": 777.27
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:05:56.708Z",
+    "lap": {
+      "number": 43,
+      "time": "01:28.0"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.1390614,
+      "tyreDeg": 0.238340773,
+      "fuel": 35.5,
+      "weight": 779.5
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:06:44.655Z",
+    "lap": {
+      "number": 46,
+      "time": "01:22.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9575191,
+      "tyreDeg": 0.863989137,
+      "fuel": 31.9,
+      "weight": 775.9
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:07:22.917Z",
+    "lap": {
+      "number": 44,
+      "time": "01:26.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0655321,
+      "tyreDeg": 0.26812917,
+      "fuel": 33.96,
+      "weight": 777.96
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:08:07.156Z",
+    "lap": {
+      "number": 47,
+      "time": "01:22.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9346126,
+      "tyreDeg": 0.888834333,
+      "fuel": 30.27,
+      "weight": 774.27
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:08:48.532Z",
+    "lap": {
+      "number": 45,
+      "time": "01:25.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9041975,
+      "tyreDeg": 0.297949414,
+      "fuel": 32.38,
+      "weight": 776.38
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:09:29.304Z",
+    "lap": {
+      "number": 48,
+      "time": "01:22.1"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9258048,
+      "tyreDeg": 0.913680978,
+      "fuel": 28.63,
+      "weight": 772.63
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:10:14.274Z",
+    "lap": {
+      "number": 46,
+      "time": "01:25.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9194848,
+      "tyreDeg": 0.327766637,
+      "fuel": 30.91,
+      "weight": 774.91
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:10:50.841Z",
+    "lap": {
+      "number": 49,
+      "time": "01:21.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9540219,
+      "tyreDeg": 0.93852298,
+      "fuel": 27.03,
+      "weight": 771.03
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:11:42.112Z",
+    "lap": {
+      "number": 47,
+      "time": "01:27.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0308922,
+      "tyreDeg": 0.357561866,
+      "fuel": 29.4,
+      "weight": 773.4
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:12:12.346Z",
+    "lap": {
+      "number": 50,
+      "time": "01:21.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9792336,
+      "tyreDeg": 0.963360833,
+      "fuel": 25.68,
+      "weight": 769.68
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:13:10.167Z",
+    "lap": {
+      "number": 48,
+      "time": "01:28.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9925143,
+      "tyreDeg": 0.387364668,
+      "fuel": 27.85,
+      "weight": 771.85
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:14:05.214Z",
+    "lap": {
+      "number": 51,
+      "time": "01:52.9"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 75.995,
+      "tyreDeg": 0,
+      "fuel": 24.04,
+      "weight": 768.04
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:14:35.941Z",
+    "lap": {
+      "number": 49,
+      "time": "01:25.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9653531,
+      "tyreDeg": 0.417172832,
+      "fuel": 26.2,
+      "weight": 770.2
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:15:31.116Z",
+    "lap": {
+      "number": 52,
+      "time": "01:25.9"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 101.700416,
+      "tyreDeg": 0.088495213,
+      "fuel": 22.68,
+      "weight": 766.68
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:16:04.049Z",
+    "lap": {
+      "number": 50,
+      "time": "01:28.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9809054,
+      "tyreDeg": 0.446977926,
+      "fuel": 24.78,
+      "weight": 768.78
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:16:53.786Z",
+    "lap": {
+      "number": 53,
+      "time": "01:22.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 131.6809631,
+      "tyreDeg": 0.156842222,
+      "fuel": 21.22,
+      "weight": 765.22
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:17:30.530Z",
+    "lap": {
+      "number": 51,
+      "time": "01:26.5"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0434705,
+      "tyreDeg": 0.476770673,
+      "fuel": 23.28,
+      "weight": 767.28
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:18:14.452Z",
+    "lap": {
+      "number": 54,
+      "time": "01:20.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 145.0491232,
+      "tyreDeg": 0.218890167,
+      "fuel": 19.86,
+      "weight": 763.86
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:18:57.468Z",
+    "lap": {
+      "number": 52,
+      "time": "01:26.9"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0348494,
+      "tyreDeg": 0.506565122,
+      "fuel": 21.81,
+      "weight": 765.81
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:19:34.900Z",
+    "lap": {
+      "number": 55,
+      "time": "01:20.4"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 148.6294851,
+      "tyreDeg": 0.279443428,
+      "fuel": 18.45,
+      "weight": 762.45
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:20:24.305Z",
+    "lap": {
+      "number": 53,
+      "time": "01:26.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.078107,
+      "tyreDeg": 0.536351039,
+      "fuel": 20.32,
+      "weight": 764.32
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:20:57.372Z",
+    "lap": {
+      "number": 56,
+      "time": "01:22.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.1568137,
+      "tyreDeg": 0.339380768,
+      "fuel": 17.08,
+      "weight": 761.08
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:21:51.029Z",
+    "lap": {
+      "number": 54,
+      "time": "01:26.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0118193,
+      "tyreDeg": 0.566150031,
+      "fuel": 18.79,
+      "weight": 762.79
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:22:18.140Z",
+    "lap": {
+      "number": 57,
+      "time": "01:20.8"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.727071,
+      "tyreDeg": 0.399091343,
+      "fuel": 15.63,
+      "weight": 759.63
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:23:17.624Z",
+    "lap": {
+      "number": 55,
+      "time": "01:26.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.991455,
+      "tyreDeg": 0.595953042,
+      "fuel": 17.28,
+      "weight": 761.28
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:23:38.401Z",
+    "lap": {
+      "number": 58,
+      "time": "01:20.3"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.8819728,
+      "tyreDeg": 0.458740616,
+      "fuel": 14.19,
+      "weight": 758.19
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:24:44.718Z",
+    "lap": {
+      "number": 56,
+      "time": "01:27.1"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0796316,
+      "tyreDeg": 0.625738659,
+      "fuel": 15.84,
+      "weight": 759.84
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:24:59.809Z",
+    "lap": {
+      "number": 59,
+      "time": "01:21.4"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9718209,
+      "tyreDeg": 0.51835439,
+      "fuel": 12.57,
+      "weight": 756.57
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:26:12.381Z",
+    "lap": {
+      "number": 57,
+      "time": "01:27.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.041977,
+      "tyreDeg": 0.655531701,
+      "fuel": 14.2,
+      "weight": 758.2
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:26:20.853Z",
+    "lap": {
+      "number": 60,
+      "time": "01:21.0"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 151.0264521,
+      "tyreDeg": 0.5779466,
+      "fuel": 11.2,
+      "weight": 755.2
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:27:39.198Z",
+    "lap": {
+      "number": 58,
+      "time": "01:26.8"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9631058,
+      "tyreDeg": 0.685340309,
+      "fuel": 12.61,
+      "weight": 756.61
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:27:42.204Z",
+    "lap": {
+      "number": 61,
+      "time": "01:21.4"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9773535,
+      "tyreDeg": 0.637558189,
+      "fuel": 9.73,
+      "weight": 753.73
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:29:04.909Z",
+    "lap": {
+      "number": 62,
+      "time": "01:22.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9098067,
+      "tyreDeg": 0.69719646,
+      "fuel": 8.28,
+      "weight": 752.28
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:29:05.852Z",
+    "lap": {
+      "number": 59,
+      "time": "01:26.7"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.037682,
+      "tyreDeg": 0.715134198,
+      "fuel": 11.17,
+      "weight": 755.17
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:30:26.400Z",
+    "lap": {
+      "number": 63,
+      "time": "01:21.5"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9669532,
+      "tyreDeg": 0.756812156,
+      "fuel": 6.75,
+      "weight": 750.75
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:30:32.288Z",
+    "lap": {
+      "number": 60,
+      "time": "01:26.4"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9094774,
+      "tyreDeg": 0.744953399,
+      "fuel": 9.54,
+      "weight": 753.54
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:31:48.345Z",
+    "lap": {
+      "number": 64,
+      "time": "01:21.9"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9127836,
+      "tyreDeg": 0.816449251,
+      "fuel": 5.37,
+      "weight": 749.37
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:31:58.164Z",
+    "lap": {
+      "number": 61,
+      "time": "01:25.9"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9650673,
+      "tyreDeg": 0.774761619,
+      "fuel": 8.14,
+      "weight": 752.14
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:33:10.088Z",
+    "lap": {
+      "number": 65,
+      "time": "01:21.7"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9594112,
+      "tyreDeg": 0.876067926,
+      "fuel": 3.91,
+      "weight": 747.91
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:33:24.746Z",
+    "lap": {
+      "number": 62,
+      "time": "01:26.6"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 150.9757421,
+      "tyreDeg": 0.804567732,
+      "fuel": 6.72,
+      "weight": 750.72
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:34:32.249Z",
+    "lap": {
+      "number": 66,
+      "time": "01:22.2"
+    },
+    "car": {
+      "chassis": "CH1",
+      "tyreTemp": 150.9674869,
+      "tyreDeg": 0.935683411,
+      "fuel": 2.28,
+      "weight": 746.28
+    }
+  },
+  {
+    "timestamp": "2016-09-17T14:34:50.936Z",
+    "lap": {
+      "number": 63,
+      "time": "01:26.2"
+    },
+    "car": {
+      "chassis": "CH2",
+      "tyreTemp": 151.0549566,
+      "tyreDeg": 0.834358214,
+      "fuel": 5.13,
+      "weight": 749.13
+    }
+  }
+]
