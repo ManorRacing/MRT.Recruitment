@@ -27,14 +27,14 @@ namespace Manor.DreamTeam.Recruitment.Controllers
 
         // GET api/telemetry/chassis/CH1
         [HttpGet("chassis/{chassis}")]
-        public Telemetry Get(string chassis)
+        public Telemetry GetByChassis(string chassis)
         {
             throw new NotImplementedException();
         }
 
         // GET api/telemetry/lap/23
         [HttpGet("lap/{lap}")]
-        public Telemetry Get(int lap)
+        public Telemetry GetByLap(int lap)
         {
             throw new NotImplementedException();
         }
