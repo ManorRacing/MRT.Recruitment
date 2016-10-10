@@ -68,29 +68,12 @@ _When **our telemetry repository is offline**_
 _I want to **ensure new telemetry data is queued**_
 _So that **we can record the data when connection is restored**_
 
-<<<<<<< HEAD
-**Tasks:**
-* Implement IRepository<Telemetry> in a TDD fashion.
-* Complete the Get() and Get(id) methods in TelemetryController.cs.
-* Add a method to TelemetryController.cs for adding more Telemetry data to the collection.
-* Add a method for obtaining details of the fastest lap recorded.
-=======
 #### Tasks
 - Add end-to-end asynchronous capabilities to your solution.
 - Add a queue to spool telemetry data writes in the event the repository is offline.
->>>>>>> 82fad3e... Added more stories to the Readme.
 
 ----------
 
-<<<<<<< HEAD
-# Additional tasks
-These tasks are optional, but we recommend that you pick at least one to make your application competitive.
-* Add end-to-end asynchronous capabilities to your solution.
-* Add some form of API documentation (e.g. Swagger)
-* Create a method for identifying slow laps where the car was entering/exiting the pit lane.
-* Add a basic UI for comparing lap-by-lap telemetry data between CH1 and CH2. The UI should consist of a list of laps, a section for each car, a comparison panel comparing lap time deltas/fuel burn.
-* Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
-=======
 ### Story MR-004
 _As a **Vehicle Science Engineer**_
 _I want **to view documentation for the Telemetry API**_
@@ -98,7 +81,6 @@ _So that I can **implement it in my own solutions**_
 
 #### Tasks
 - Add some form of live API documentation (e.g. Swagger).
->>>>>>> 82fad3e... Added more stories to the Readme.
 
 ----------
 
