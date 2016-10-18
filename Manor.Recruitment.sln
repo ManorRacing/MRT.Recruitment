@@ -13,11 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F8699BCF-5B4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{1001C725-7965-4B8A-97BD-9EF8E6A2A8AD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{4769C078-321A-46A6-A346-2B372137AE63}"
-	ProjectSection(SolutionItems) = preProject
-		data\telemetry.json = data\telemetry.json
-	EndProjectSection
-EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Manor.DreamTeam.Recruitment", "src\Manor.DreamTeam.Recruitment\Manor.DreamTeam.Recruitment.xproj", "{CF16AD25-F941-4F09-899F-1264EEF3AAD8}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Manor.DreamTeam.Recruitment.UnitTests", "test\Manor.DreamTeam.Recruitment.UnitTests\Manor.DreamTeam.Recruitment.UnitTests.xproj", "{29B33D8A-7570-4EE9-8E46-C4EAF397E21A}"
