@@ -16,13 +16,20 @@ We have provided sample data ``telemetry.json`` for you to use as a base.
 
 ### What do I need to do?
 1. Ensure that you have [ASP.Net Core 1.0](https://blogs.msdn.microsoft.com/webdev/2016/06/27/announcing-asp-net-core-1-0/) installed.
-2. Clone or fork this repository. 
+2. Clone or download this repository.
 3. Code!
 
 As a minimum, please implement stories [MR-001](#story-mr-001) and [MR-002](#story-mr-002). If you have extra time, please implement one (or more) of the additional stories.
 
 ### How long does it take?
 You should aim to spend approximately 90 minutes on this excercise.
+
+### Submission details
+Due to email attachment size limits, we have set up some shared storage for taking submissions.
+
+- Once you have completed the test, please email software-jobs@manorracing.com and you will be provided with an invite for access to shared storage.
+- Upload your solution and it will be reviewed by a member of our team.
+
 
 ---
 
@@ -130,14 +137,6 @@ These stories are open and optional, but we recommend that you **pick at least o
 
 ### Story MR-007 (optional)
 - Go wild! Add a feature of your own design, providing a simple User Story to describe the feature that you have added.
-
-
-
-## Submission details
-Due to email attachment size limits, we have set up some shared storage for taking submissions.
-
-- Once you have completed the test, please email your agent or Manor Racing contact and you will be provided with an invite for access to the OneDrive shared storage. 
-- Upload your solution and it will be reviewed by a member of our team.
 
 
 
